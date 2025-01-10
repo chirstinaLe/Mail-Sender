@@ -1,5 +1,5 @@
 # Mail-Sender
-**Author: Christina Le **
+**Author: Christina Le**
 
 Creating an application to send emails to another person that can be used for other projects. 
 
