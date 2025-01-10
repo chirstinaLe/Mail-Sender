@@ -1,5 +1,5 @@
 # Mail-Sender
-Author: Christina Le 
+**Author: Christina Le **
 
 Creating an application to send emails to another person that can be used for other projects. 
 
@@ -9,7 +9,7 @@ Programming an application that can automate this task can be used in many diffe
 **Goals:**
 	Create an application that can send emails to given recipients
 
-**	Implementation:**
+**Implementation:**
   Node.js to send emails backend
   Nodemailer library to send emails
   React website for front-end development
